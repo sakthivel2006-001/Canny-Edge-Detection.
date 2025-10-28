@@ -25,3 +25,6 @@ plt.show()
 ```
 ## OUTPUT
 <img width="699" height="427" alt="download" src="https://github.com/user-attachments/assets/ffdf59fe-06b4-4cd9-aa4b-a58a28033f8f" />
+
+## RESULT:
+The Canny Edge Detection algorithm was successfully implemented.
